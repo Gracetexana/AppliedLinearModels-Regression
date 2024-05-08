@@ -1,0 +1,33 @@
+Automobile,Y=Miles/gal.,X1=Displacement (in3),X2=Weight (lbs)
+Apollo,18.90,350,3910
+Omega,17.00,350,3860
+Nova,20.00,250,3510
+Monarch,18.25,351,3890
+Duster,20.07,225,3365
+Jenson Conv.,11.20,440,4215
+Skyhawk,22.12,231,3020
+Monza,21.47,262,3180
+Scirocco,34.70,  89.7,1905
+Corolla SR-5,30.40,  96.9,2320
+Camaro,16.50,350,3885
+Datsun B210,36.50,  85.3,2009
+Capri II,21.50,171,2655
+Pacer,19.70,258,3375
+Bobcat,20.30,140,2700
+Granada,17.80,302,3890
+Eldorado,14.39,500,5290
+Imperial,14.89,440,5185
+Nova LN,17.80,350,3910
+Valiant,16.41,318,3660
+Starfire,23.54,231,3050
+Cordoba,21.47,360,4250
+Trans Am,16.59,400,3850
+Corolla E-5,31.90,  96.9,2275
+Astre,29.40,140,2150
+Mark IV,13.27,460,5430
+Celica GT,23.90,133.6,2535
+Charger SE,19.73,318,4370
+Cougar,13.90,351,4540
+Elite,13.27,351,4715
+Matador,13.77,360,4215
+Corvette,16.50,350,3660
