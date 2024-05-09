@@ -4,14 +4,12 @@ I enrolled in this course during my second semester at RIT from August 2023 to D
 
 ## [Project](Project/LongToralesProject.r)
 
-> 1. Choose a topic with at least two quantitative variables. [I chose to work with environmental data about cyanobacteria](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=https://doi.org/10.23719/1503175). I also chose to [work with this data](../VisualAnalytics/FinalProject) in my first semester in my [visual analytics course](../VisualAnalytics).
->
-> 2. Using R:
-> > - Describe your data.
-> > 
-> > - Perform a statistical analysis.
-> >
-> > - Check the validity of your model.
+1. Choose a topic with at least two quantitative variables. [I chose to work with environmental data about cyanobacteria](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=https://doi.org/10.23719/1503175). I also chose to [work with this data](../VisualAnalytics/FinalProject) in my first semester in my [visual analytics course](../VisualAnalytics).
+
+2. Using R:
+    - Describe your data.
+    - Perform a statistical analysis.
+    - Check the validity of your model.
 
 ## Homework
 
