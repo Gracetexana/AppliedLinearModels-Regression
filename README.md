@@ -1,6 +1,6 @@
 # Applied Linear Models: Regression - Taught by Dr. Linlin Chen at Rochester Institute of Technology
 
-I enrolled in this course during my second semester at RIT from August 2023 to December 2023. I wanted to have a solid foundation in statistics, which I believe I achieved through this course (along with Applied Statistics - taught by Professor Robert Parody - which did not have much a coding element). In addition to laying a solid foundation of statistics, I also learned a fair amount of coding in R, as shown in this repository. 
+I enrolled in this course during my second semester at RIT from August 2023 to December 2023. I wanted to have a solid foundation in statistics, which I believe I achieved through this course (along with Applied Statistics - taught by Professor Robert Parody - which did not have much of a coding element). In addition to laying a solid foundation of statistics, I also learned a fair amount of coding in R, as shown in this repository. 
 
 ## [Project](Project/LongToralesProject.r)
 
